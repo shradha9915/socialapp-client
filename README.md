@@ -14,7 +14,7 @@
 - Express
 - Firebase 
 
-## [Back-End](https://github.com/gkanishk/socialapp-function) Repo
+## [Back-End](https://github.com/shradha9915/socialapp-function) Repo
 
 ![react](https://img.shields.io/badge/frontend-react-blue) ![redux](https://img.shields.io/badge/state-redux-orange) ![firebase](https://img.shields.io/badge/database-firebase-yellow) ![style](https://img.shields.io/badge/style-MaterialUI-green) ![serve](https://img.shields.io/badge/server-express-pink)
 
