@@ -21,7 +21,7 @@
 ## Installation:
 
 ```
-git clone https://github.com/gkanishk/social-client
+git clone https://github.com/shradha9915/social-client
 cd social-client
 yarn
 yarn start
